@@ -1,0 +1,20 @@
+#topMenu {
+  background-color: gold;
+}
+
+#topDisclaimer {
+  background-color: rgb(110, 82, 49);
+}
+
+#firstMenu {
+  background-color: beige;
+}
+
+body {
+  color: #5f1500;
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: rgb(110, 82, 49);
+}
